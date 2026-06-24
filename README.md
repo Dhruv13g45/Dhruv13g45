@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Dhruv13g45
-- 👀 Talk about Web Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dhruvgoradia13@gmail.com
+# Hi there, I'm Dhruv 👋
 
-<!---
-Dhruv13g45/Dhruv13g45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Developer
+
+A passionate developer with primary focus is on fullstack engineering, scalable web applications, and software development best practices.
+
+### 💻 What I'm Working On
+
+* Building full-stack applications with the MERN Stack
+* Exploring Next.js and modern web architectures
+* Strengthening Data Structures & Algorithms skills
+
+### 🛠️ Tech Stack
+
+* Languages: JavaScript, TypeScript, Python
+* Frontend: React, Next.js
+* Backend: Node.js, Express.js
+* Databases: MongoDB, SQL
+* Tools: Git, GitHub
+
+### 📈 Current Goals
+
+* Build production-ready projects
+* Contribute to open-source communities
+
+⭐ Always learning. Always building.
