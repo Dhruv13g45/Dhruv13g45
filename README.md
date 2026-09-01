@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXTJS, GENAI**
 
-- 👨‍💻 All of my projects are available at [portfolio-two-rho-29.vercel.app](portfolio-two-rho-29.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-two-rho-29.vercel.app](https://portfolio-two-rho-29.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@dhruv134507](https://hashnode.com/@dhruv134507)
 
