@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Goradia</h1>
 <h3 align="center">A FullStack developer with primary focus is on engineering scalable web applications and software development best practices.</h3>
 
-- 🔭 I’m currently working on [PsyLink](https://github.com/Dhruv13g45/PsyLink-Connect-Heal-Grow)
+- 🔭 I’m currently working on [PR-Funnel](https://github.com/Dhruv13g45/PR-Funnel)
 
 - 🌱 I’m currently learning **NEXTJS, GENAI**
 
